@@ -1,0 +1,1 @@
+# Start-e-Stop-Maquinas-Virtuais-no-Azure
